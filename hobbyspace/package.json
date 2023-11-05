@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "deploy": "gh-pages-d build",
+    "predeploy": "npm run build",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
@@ -39,5 +41,7 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "homepage": "https://eggcheeese.github.io/study/"
+  
 }
