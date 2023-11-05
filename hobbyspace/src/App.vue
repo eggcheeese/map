@@ -12,7 +12,7 @@
       </ul>
     </div>
     
-    <h2 class="no_screen">Okestro Hobbyspace</h2>
+    <h2 class="no_screen">Okestro Hobbyspace11</h2>
    
     <!-- <button @click="displayHobbyInfo(hobbies[0])">Go Main</button> -->
     <!-- <button @click="displayHobbyInfo(hobbies[1])">02</button>
